@@ -1,0 +1,17 @@
+##########################
+# Thanks for buying!     #
+##########################
+# 
+# Location of the portal (do not change)
+portal:
+    main: world:0:0:0
+    nether: world:0:0:0
+# 
+# Messages. Supports color codes A-F, 0-9
+#
+messages:
+    no-permission: '&cYou do not have permission to spot a portal.'
+    player-only: 'Only a player can run this command!'
+    portal-type: '&cCan not recognize it... Please look at obsidian/portal block types when doing this.'
+    invalid-portal: '&cThis is not a portal you can travel through!'
+    

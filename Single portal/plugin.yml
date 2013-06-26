@@ -1,0 +1,8 @@
+name: SinglePortal
+version: 1.0
+description: Only allows a user to enter and exit a single portal in the server
+main: me.zeus.SinglePortal.SinglePortal
+commands:
+  portal:
+    description: Sets the portal block where you are looking
+    syntax: /portal
